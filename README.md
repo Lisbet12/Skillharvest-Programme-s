@@ -7,3 +7,9 @@ My Journey Through out my learning in skillharvest
 - EXCEl [Download here](https://www.microsoft.com)
 - 
 Power Bi
+
+
+``` SQL
+  SELECT * FROM TABLE 1
+  WHERE CONDITION =TRUE
+```
